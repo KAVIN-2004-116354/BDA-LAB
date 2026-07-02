@@ -1,0 +1,11 @@
+ID,Name,Department,Marks
+101,Arun,CSE,85
+102,Priya,ECE,92
+103,Rahul,MECH,78
+104,Sneha,CSE,88
+105,Karan,EEE,74
+106,Meena,ECE,95
+107,Vijay,CSE,81
+108,Anitha,MECH,69
+109,Rohit,EEE,87
+110,Divya,CSE,91
